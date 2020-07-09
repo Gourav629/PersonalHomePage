@@ -1,0 +1,3 @@
+<?php
+echo chr(36);// It takes the decimal value of the special character to display the character.....
+?>
